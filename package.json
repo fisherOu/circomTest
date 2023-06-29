@@ -1,0 +1,17 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@darkforest_eth/hashing": "^6.7.29",
+    "big-integer": "^1.6.51",
+    "snarkjs": "^0.7.0"
+  }
+}
