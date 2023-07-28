@@ -12,6 +12,7 @@
   "dependencies": {
     "@darkforest_eth/hashing": "^6.7.29",
     "big-integer": "^1.6.51",
+    "ethers": "^6.6.2",
     "snarkjs": "^0.7.0"
   }
 }
